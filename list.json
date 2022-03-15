@@ -17,4 +17,10 @@
         "semester": "6th",
         "gender": "female"
     }
+    ,{
+        "name": "Srijan Vaishnav",
+        "branch": "EEE",
+        "semester": "8th",
+        "gender": "male"
+    }
 ]
